@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 blue teamer<br>soc analyst<br>CTF player<br>CTF maker<br>threat hunter
 
 
