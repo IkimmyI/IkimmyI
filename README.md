@@ -1,5 +1,5 @@
 # About Me:
-blue teamer<br>soc analyst<br>CTF player<br>CTF maker<br>threat hunter
+blue teamer<br>soc analyst<br>CTF player<br>CTF maker<br>threat hunter<br>ASP.NET MVC WEB Devoloper
 
 
 ## 🌐 Socials:
