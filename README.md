@@ -1,13 +1,11 @@
 # About Me:
-blue teamer<br>soc analyst<br>CTF player<br>CTF maker<br>threat hunter<br>ASP.NET MVC WEB Devoloper
-
+SOAR-focused Security Analyst and Automation Engineer specializing in building, managing, and optimizing security orchestration workflows to improve SOC efficiency and response speed. Experienced administrator across major SOAR platforms including FortiSOAR, Swimlane, Splunk Phantom, and n8n, with hands-on work in playbook development, incident automation, and integration of security tools. Strong background in SOC operations, blue team defense, threat hunting, and DFIR, with a focus on turning manual security processes into scalable automated solutions.
 
 ## Socials:
-[https://www.linkedin.com/in/rakan-adnan-39911a238/](https://www.linkedin.com/in/rakan-adnan-39911a238/) | [https://github.com/IkimmyI](https://github.com/IkimmyI) | [rakandawod01@gmail.com](mailto:rakandawod01@gmail.com) | [https://ikimmyi.github.io/Watasec/](https://ikimmyi.github.io/Watasec/) [https://medium.com/@rakandawod01](https://medium.com/@rakandawod01) 
+[https://www.linkedin.com/in/rakan-adnan-39911a238/](https://www.linkedin.com/in/rakan-adnan-39911a238/) | [rakandawod01@gmail.com](mailto:rakandawod01@gmail.com) | [https://ikimmyi.github.io/Watasec/](https://ikimmyi.github.io/Watasec/) [https://medium.com/@rakandawod01](https://medium.com/@rakandawod01) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IkimmyI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IkimmyI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkimmyI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
