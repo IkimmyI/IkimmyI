@@ -4,7 +4,7 @@ SOAR-focused Security Analyst and Automation Engineer specializing in building, 
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/rakan-adnan-39911a238/
-* Email: [mailto:rakandawod01@gmail.com](mailto:rakandawod01@gmail.com)
+* Email: anaya.rakan@gmail.com
 * Blog (WataSec): https://ikimmyi.github.io/Watasec/
 * Medium: https://medium.com/@rakandawod01
 
